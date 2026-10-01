@@ -6,3 +6,16 @@
 .profile-column {
   width: 300px;
 }
+
+.profile-card {
+  border: 1px solid #ccc;
+  padding: 16px;
+  border-radius: 8px;
+  margin: 10px 0;
+  max-width: 300px;
+}
+
+.online {
+  color: green;
+  font-size: 14px;
+}
